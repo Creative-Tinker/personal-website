@@ -8,7 +8,7 @@ Despite the fact that I quickly hacked this together, and was only working on it
 * Git: Made branch for each new feature – merged it into main (always had currently working version) as main. 
 
 
-## Justification
+## Design Justifications
 * Stayed away from conventional website layout / content (about me, hobbies)  
 * I used custom CSS and zero frameworks. I kept it as basic as possible as I found most people struggle writing vanilla HTML/CSS/JS. The usually implement additional libraries to make it look aesthetically pleasing but I wanted to not rely on crutches like bootstrap etc. I wanted to ensure I had the fundamentals down before moving onto something more complex
 
