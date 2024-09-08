@@ -17,7 +17,5 @@ Despite the fact that I quickly hacked this together, and was only working on it
 * Blog style: I’ve done a lot of writing, and I enjoy it (which is why I do help out GSCE students with English to begin with) – so I think transforming this into a blog where I can post more long form content is more appropriate. Right now I have a bunch of words just stuffed into flexboxes. 
 * Use react framework (SPA) overall – but could’ve helped with this current feature (toggle btn / header column and appropriate text changing based on button click) 
 * Create my coding journey (timeline) interactive – links to every GitHub project and reflections etc. – cool interactive feature.  
-* My git commits are atrocious and all over the place – a lot of room for improvement there.  
-
 
 
